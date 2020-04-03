@@ -117,7 +117,7 @@ If you are going to utilize a dynamic routing protocol over wireguard interfaces
 ### Binaries
 This repository ships prebuilt binaries made from the [WireGuard source code](https://git.zx2c4.com/WireGuard/tree/src/).
 
-The binaries are statically linked against [musl libc](https://www.musl-libc.org/) to mitigate potential issues with Ubiquiti EdgeOS's outdated glibc.
+The binaries are statically linked against [musl libc](https://musl.libc.org/) to mitigate potential issues with Ubiquiti EdgeOS's outdated glibc.
 
 ---
 
